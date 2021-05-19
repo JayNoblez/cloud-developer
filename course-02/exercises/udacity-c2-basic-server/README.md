@@ -13,6 +13,7 @@ npm install
 ```
 >_tip_: **npm i** is shorthand for **npm install**
 
+Making changes for commit
 ### Installing useful tools
 #### 1. [Postbird](https://github.com/paxa/postbird)
 Postbird is a useful client GUI (graphical user interface) to interact with our provisioned Postgres database. We can establish a remote connection and complete actions like viewing data and changing schema (tables, columns, ect).
